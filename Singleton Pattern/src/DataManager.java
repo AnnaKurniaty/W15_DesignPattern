@@ -10,8 +10,5 @@ public class DataManager {
     }
 
     private DataManager() { }
-    
-    public void showMessage(){
-        System.out.println("Hello World!");
      }
 }
